@@ -1,19 +1,5 @@
 
-Skip to content
-All gists
-Back to GitHub
-@0x7one
-@vmanoilov
-vmanoilov/dork222.txt
-Created 14 months ago • Report abuse
 
-0
-
-    0
-
-Code
-Revisions 1
-dork222.txt
 
 
 inurl:"/vpn/tmindex.html" vpn
@@ -627,6 +613,6 @@ ext:jsp intext:"jspspy" intitle:"Jspspy web~shell V1.0"
 intitle:"Nport web console"
 inurl:"mgl-instagram-gallery/single-gallery.php?media"
 "password" + ext:conf "Modem Type = USB Modem"
-"lv_poweredBy"
-, 
+
+
 @0x7one
