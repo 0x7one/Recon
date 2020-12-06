@@ -1,7 +1,4 @@
 
-
-
-
 inurl:"/vpn/tmindex.html" vpn
 intext:"Powered by GetSimple" -site:get-simple.info
 inurl:"/fuel/login"
