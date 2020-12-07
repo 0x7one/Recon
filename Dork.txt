@@ -2,6 +2,7 @@
 
 Site:trello.com intext:ftp
 Site:trello.com intext:ORG
+site:s3.amazonaws.com "Tesla"
 
 
 inurl:"/vpn/tmindex.html" vpn
@@ -564,6 +565,8 @@ intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt
 intitle:"Yawcam" inurl:8081
 ext:pem "PRIVATE KEY" -site:facebook.com -example -test*
 inurl:control/camerainfo
+
+intitle:"netsparker scan report" ext:pdf
 "IBM Security AppScan Report" ext:pdf
 inurl:"/etc/fail2ban/" + ext:conf
 intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
@@ -574,7 +577,7 @@ inurl::5601/app/kibana
 inurl:"index.php?option=com_joomanager"
 "MAIL_PASSWORD" filetype:env
 "database_password" filetype:yml "config/parameters.yml"
-intitle:"netsparker scan report" ext:pdf
+
 inurl:/fantastico_fileslist.txt + ext:txt
 inurl:public "Powered by SecureW2"
 inurl:/openwebmail/cgi-bin/openwebmail/etc/
